@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client';
 import ErrorBoundary from './ErrorBoundary'
 import { BrowserRouter } from "react-router-dom";
 import Main from './Main'
-import Repository from './Repository'
+
 
 
 const rootElement = document.getElementById('root');

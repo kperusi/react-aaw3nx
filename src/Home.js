@@ -1,7 +1,7 @@
 import React from "react";
-import { useEffect } from "react";
+
 import { useState } from "react";
-import { NavLink, Navigate, Outlet, useNavigate } from "react-router-dom";
+import {Outlet, useNavigate } from "react-router-dom";
 
 export default function Home() {
   document.title = "Sunday famous portfolio";

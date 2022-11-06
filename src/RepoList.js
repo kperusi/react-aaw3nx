@@ -3,7 +3,7 @@ import { useState ,useReducer} from "react";
 import { Outlet, useNavigate, useParams } from "react-router-dom";
 import { useEffect } from "react";
 import "./index.css";
-import Repository from "./Repository";
+
 
 
 const initial = {
