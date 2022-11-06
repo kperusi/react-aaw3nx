@@ -29,8 +29,8 @@ export default function NavBar() {
     <nav className='nav-bar'>
 
       <div className="txt">
-        <h1>Welcome to </h1>
-        <h3>My Demo Page</h3>
+        <h1>Portfolio </h1>
+      
       </div>
       <div className={`nav-wrap ${back}`}>
       <Hambuger showHandler={showHandler}/>
