@@ -1,6 +1,6 @@
 import React from "react";
 import { useState ,useReducer} from "react";
-import { Outlet, useNavigate, useParams } from "react-router-dom";
+import { Outlet, useNavigate} from "react-router-dom";
 import { useEffect } from "react";
 import "./index.css";
 
