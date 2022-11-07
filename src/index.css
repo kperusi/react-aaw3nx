@@ -139,13 +139,13 @@ html {
 }
 .home-image-background {
   /* background-color: rgb(156, 148, 148); */
-  width: 30vw;
-  height: 60vh;
-  margin: 0px auto;
-  /* background-image: url(./Famous500143455.jpg); */
+  width: 40vw;
+  height: 70vh;
+  margin: 10px auto;
+  /* background-image: url(./famous2.svg); */
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 240px;
+  background-size: 540px 400px;
   
 }
 .home-right {
